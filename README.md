@@ -14,8 +14,8 @@ Nosso objetivo é oferecer um conjunto estruturado de **exercícios práticos** 
 
 O repositório está organizado nas seguintes pastas:
 
-* **[python_challenges/](/python_challenges/)**: Contém exercícios e desafios de Python para a prática das pessoas alunas.
-* **[python_exams/](/python_exams/)**: Inclui sugestões de avaliações de Python que podem ser usadas ao final de cada aula. Esses exercícios serão posteriormente publicados na plataforma onde o curso é realizado.
+* **[python_challenges/](/python_basic/python_challenges/)**: Contém exercícios e desafios de Python para a prática das pessoas alunas.
+* **[python_exams/](python_basic/python_exams/)**: Inclui sugestões de avaliações de Python que podem ser usadas ao final de cada aula. Esses exercícios serão posteriormente publicados na plataforma onde o curso é realizado.
 
 * **[sql_challenges/](/sql_challenges/)** - **_Em construção_**: Exercícios e desafios de SQL.
 * **[sql_exams/](/sql_exams/)** - **_Em construção_**: Sugestões de avaliações de SQL.
