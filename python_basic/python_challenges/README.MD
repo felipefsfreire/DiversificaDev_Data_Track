@@ -38,9 +38,9 @@ Este repositório é um material de apoio ao curso básico de Python. Aqui você
 
 ## Como usar este repositório
 
-1. Leia os enunciados - **[Exercícios Python](/python_basic/python_challenges/python_exercices.md)**
+1. Leia os enunciados - **[Exercícios Python](/python_basic/python_challenges/python_exercises.md)**
 2. Tente resolver por conta própria
-3. Compare com a solução proposta - **[Exercícios Resolvidos Python](/python_basic/python_challenges/python-exercices-with-solutions.md)**
+3. Compare com a solução proposta - **[Exercícios Resolvidos Python](/python_basic/python_challenges/python_exercises_with_solutions.md)**
 4. Modifique e experimente para consolidar o aprendizado
 
 ---
