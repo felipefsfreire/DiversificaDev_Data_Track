@@ -14,12 +14,12 @@ Aqui você encontrará uma seleção de exercícios organizados por **aula** e *
 ## Como usar este repositório
 
 1. Navegue pelas seções conforme os temas abordados nas aulas:
-   - Introdução ao Curso e Python
-   - Variáveis e Operações
-   - Variáveis Compostas
-   - Condicionais e Loops
-   - Funções, Pacotes e Bibliotecas
-   - Git e GitHub
+   - [Introdução ao Curso e Python](/python_basic/python_exams/python_basics_quiz.md/#aula-1--introdução-ao-curso-e-python)
+   - [Variáveis e Operações](/python_basic/python_exams/python_basics_quiz.md/#aula-2--variáveis-e-operações)
+   - [Variáveis Compostas](/python_basic/python_exams/python_basics_quiz.md/#aula-3--variáveis-compostas)
+   - [Condicionais e Loops](/python_basic/python_exams/python_basics_quiz.md/#aula-4--condicionais-e-loops)
+   - [Funções, Pacotes e Bibliotecas](/python_basic/python_exams/python_basics_quiz.md/#aula-5--funções-pacotes-e-bibliotecas)
+   - [Git e GitHub](/python_basic/python_exams/python_basics_quiz.md/#aula-6--git-e-github)
 
 2. Escolha os exercícios mais adequados para o nível da sua turma.
 
