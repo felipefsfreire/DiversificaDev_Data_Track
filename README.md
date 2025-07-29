@@ -1,29 +1,35 @@
-# Desafios e Avaliações de Python
+# Desafios e Avaliações - Trilha de Análise de Dados
 
 ---
 
-Olá! Este repositório foi criado para servir como um recurso de aprendizado e avaliação para os estudos em Python, inicialmente em meu perfil pessoal no GitHub.
+Este repositório foi criado para servir como um recurso de aprendizado e avaliação para a **Trilha de Análise de Dados**, inicialmente em meu perfil pessoal no GitHub.
 
 ## Objetivo
 
-Nosso objetivo é oferecer um conjunto estruturado de **exercícios práticos** e **desafios de avaliação** que complementam o conteúdo de cada aula de Python. Queremos que todas as pessoas estudantes tenham a oportunidade de praticar e consolidar seus conhecimentos de forma eficaz.
+Nosso objetivo é oferecer um conjunto estruturado de **exercícios práticos** e **desafios de avaliação** que complementam o conteúdo de cada etapa da trilha. Queremos que todas as pessoas estudantes tenham a oportunidade de praticar e consolidar seus conhecimentos de forma eficaz, abordando tópicos de Python e SQL.
 
 ---
 
 ## Estrutura do Repositório
 
-O repositório está organizado em duas pastas principais:
+O repositório está organizado nas seguintes pastas:
 
-* **[python_challenges/](/python_challenges/)**: Contém uma série de exercícios e desafios para serem compartilhados e praticados pelas pessoas alunas. São desenvolvidos para reforçar o aprendizado de tópicos específicos.
-* **[python_exams/](/python_exams/)**: Inclui sugestões de exercícios que podem ser usados como avaliações ao final de cada aula, permitindo verificar a compreensão do conteúdo ensinado. **Esses exercícios poderão ser posteriormente publicados na plataforma do curso.**
+* **[python_challenges/](/python_challenges/)**: Contém exercícios e desafios de Python para a prática das pessoas alunas.
+* **[python_exams/](/python_exams/)**: Inclui sugestões de avaliações de Python que podem ser usadas ao final de cada aula. Esses exercícios serão posteriormente publicados na plataforma onde o curso é realizado.
+
+* **[sql_challenges/](/sql_challenges/)** - **_Em construção_**: Exercícios e desafios de SQL.
+* **[sql_exams/](/sql_exams/)** - **_Em construção_**: Sugestões de avaliações de SQL.
+
+* **[python_analisys_challenges/](/python_analisys_challenges/)** - **_Em construção_**: Desafios de Python focados em Análise de Dados.
+* **[python_analisys_exams/](/python_analisys_exams/)** - **_Em construção_**: Sugestões de avaliações de Python para Análise de Dados.
 
 ---
 
 ## Contribuição e Validação
 
-A qualidade e relevância deste material são fundamentais. Por isso, a **contribuição e validação das pessoas mentoras são essenciais**. Encorajamos a revisão do conteúdo, sugestões de melhoria, correções ou a adição de novos exercícios que possam enriquecer a experiência de aprendizado.
+A qualidade e relevância deste material são fundamentais. Por isso, a **contribuição e validação das pessoas mentoras são essenciais**. Encorajamos a revisão do conteúdo, sugestões de melhoria, correções ou a adição de novos exercícios que possam enriquecer a experiência de aprendizado para todas as partes da trilha.
 
-Se você deseja contribuir, sinta-se à vontade para:
+Se você é uma pessoa mentora e deseja contribuir, sinta-se à vontade para:
 
 * Abrir **issues** para relatar problemas, fazer perguntas ou sugerir melhorias.
 * Enviar **pull requests** com suas contribuições de código, novos exercícios ou correções.
